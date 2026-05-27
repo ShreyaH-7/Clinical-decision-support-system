@@ -131,4 +131,13 @@ This project demonstrates the use of AI in the healthcare field by combining dee
 ## ScreenShots
 <img width="1114" height="879" alt="Screenshot 2025-09-16 184604" src="https://github.com/user-attachments/assets/626f2645-8c92-4860-b983-6448334d4edb" />
 
+<img width="1663" height="841" alt="Screenshot 2025-09-16 184850" src="https://github.com/user-attachments/assets/7c386c8a-aaeb-4841-a30e-68268aff0858" />
+
+<img width="1407" height="870" alt="Screenshot 2025-09-16 185033" src="https://github.com/user-attachments/assets/1025faef-29d9-47c1-bc4e-9984d21d932d" />
+
+<img width="1408" height="790" alt="Screenshot 2025-09-16 185249" src="https://github.com/user-attachments/assets/59a07ab8-b579-4135-ae8c-5e3e8ae543bc" />
+
+<img width="1329" height="831" alt="Screenshot 2025-09-16 193314" src="https://github.com/user-attachments/assets/dd300c3d-2f53-4d1e-b404-51155019d275" />
+
+
 

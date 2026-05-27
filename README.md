@@ -1,4 +1,4 @@
-# 🩺 AI-Powered Chest X-Ray CDSS
+### 🩺 AI-Powered Chest X-Ray CDSS
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.3-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
@@ -16,7 +16,7 @@ This semi-graduation project demonstrates a clean architecture approach with thr
 
 ![App Screenshot](cdss-xray-app/public/logo2.png)
 
-## 📋 Table of Contents
+### 📋 Table of Contents
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
@@ -30,7 +30,7 @@ This semi-graduation project demonstrates a clean architecture approach with thr
 - [Contributing](#-contributing)
 
 
-## 📸 Features
+### 📸 Features
 
 - **🖼️ X-ray Image Upload**: Drag and drop interface for easy chest X-ray upload
 - **🤖 AI-powered Analysis**: Advanced machine learning models for accurate diagnostic suggestions
@@ -48,7 +48,7 @@ This semi-graduation project demonstrates a clean architecture approach with thr
 - **♻️ Component Architecture**: Clean, modular design with reusable components
 - **📄 Downloadable Reports**: Generate comprehensive diagnostic reports (coming soon)
 
-## 🧱 Tech Stack
+### 🧱 Tech Stack
 
 ### 🌐 Frontend
 - **Next.js 15.3**: React framework with App Router architecture
@@ -68,7 +68,7 @@ This semi-graduation project demonstrates a clean architecture approach with thr
 - **NumPy/Pandas**: Data handling
 - **SQLite**: Development database (PostgreSQL in production)
 
-## 🏗 Architecture
+### 🏗 Architecture
 
 The application follows a modern client-server architecture with a clean separation of three distinct service layers:
 
@@ -138,7 +138,7 @@ Each layer has clear responsibilities and communicates through well-defined inte
 └── requirements.txt        # Python dependencies
 ```
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 - Node.js 18.x or higher
@@ -235,7 +235,7 @@ Our application follows a structured clinical workflow designed to enhance diagn
 - Provider makes final clinical judgment with AI assistance
 - Full diagnostic report can be downloaded for the medical record
 
-## 🎨 UI & UX Highlights
+### 🎨 UI & UX Highlights
 
 - **Responsive Design**: Adapts seamlessly to mobile, tablet, and desktop views
 - **Theme Switching**: Elegant transition between light and dark modes for varied clinical environments
@@ -317,7 +317,7 @@ gunicorn core.wsgi:application
 - **Railway/Render**: Good options for the Django backend
 - **Docker**: Container-based deployment for consistent environments
 
-## 💡 Development Notes
+### 💡 Development Notes
 
 - **Code Organization**: Following Next.js and Django best practices with modular components
 - **State Management**: Using React hooks for local state management
@@ -332,7 +332,7 @@ gunicorn core.wsgi:application
 - **Error Handling**: Comprehensive error handling and fallback mechanisms
 - **Development Time**: Completed in less than a week as a semi-graduation project
 
-## 📜 License
+### 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 

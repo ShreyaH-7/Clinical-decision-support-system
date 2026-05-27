@@ -128,3 +128,7 @@ The main objective of this project is to assist healthcare professionals in anal
 
 This project demonstrates the use of AI in the healthcare field by combining deep learning, medical image processing, and full-stack web technologies to build an intelligent Clinical Decision Support System for chest X-ray analysis.
 
+## ScreenShots
+<img width="1114" height="879" alt="Screenshot 2025-09-16 184604" src="https://github.com/user-attachments/assets/626f2645-8c92-4860-b983-6448334d4edb" />
+
+
